@@ -4,10 +4,10 @@
   "description": "Simple Chat App",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "root",
+  "author": "sanchez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
